@@ -65,7 +65,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/base_margin_x4"
                 android:gravity="center"
-                android:text="@string/text_call_back"
+                android:text="View Order"
                 android:textAllCaps="false"
                 android:textColor="@android:color/white" />
 
